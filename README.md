@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bahe</h1>
+<h1 align="center">Hi 👋, I'm a Front-end UI developer </h1>
 <h3 align="center">I like translating mock-ups</h3>
 
 - 🔭 I’m currently working on completing **the FullStackOpen Course from Helsinki Open University**
