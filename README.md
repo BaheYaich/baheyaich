@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm a Front-end UI developer </h1>
 <h3 align="center">I like translating mock-ups</h3>
 
-- 🔭 I’m currently working on completing **the FullStackOpen Course from Helsinki Open University**
+- 🔭 I’m currently a student at Omnia in Finland completing their **Full-stack course**
 
-- 🌱 I’m currently learning **React to be come a Full-stack developer**
+- 🌱 I’m currently learning **Svelte to be come a Full-stack developer**
 
 - 💬 Ask me all about **CSS and I will answer**
 
-- ⚡ Fun fact **I love Doctor Who and speaking new languages**
+- ⚡ Fun fact **I love Doctor Who, collecting Sonic the Hedgehog things and speaking new languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
