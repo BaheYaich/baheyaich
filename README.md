@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Front-end UI developer </h1>
+<h1 align="center">Hi 👋, I'm a Full-stack developer </h1>
 <h3 align="center">I like translating mock-ups</h3>
 
 - 🔭 I’m currently a student at Omnia in Finland completing their **Full-stack course**
