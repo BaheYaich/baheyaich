@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm a Full-stack developer </h1>
-<h3 align="center">I like translating mock-ups</h3>
+<h1 align="center">Hi 👋, I'm just a guy </h1>
+<h3 align="center">Who likes translating mock-ups and writing CSS</h3>
 
 - 🔭 I’m currently a student at Omnia in Finland completing their **Full-stack course**
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me all about **CSS and I will answer**
 
-- ⚡ Fun fact **I love Doctor Who, collecting Sonic the Hedgehog things and speaking new languages**
+- ⚡ Fun fact **I love Doctor Who, collecting Sonic the Hedgehog merch and speaking new languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
