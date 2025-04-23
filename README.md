@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm just a guy </h1>
-<h3 align="center">Who likes translating mock-ups and writing CSS</h3>
+<h3 align="center">Who likes writing CSS</h3>
 
 - 🔭 I’m currently a student at Omnia in Finland completing their **Full-stack course**
 
