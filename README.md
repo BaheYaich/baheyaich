@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently a student at Omnia in Finland completing their **Full-stack course**
 
-- 🌱 I’m currently learning **Svelte and some backend frameworks to become a Full-stack developer**
+- 🌱 I’m nowadays pracitcing **Svelte and Astro** at my internship
 
 - 💬 Ask me all about **CSS and I will answer**
 
-- ⚡ Fun fact **I love Doctor Who, collecting Sonic the Hedgehog merch and speaking new languages**
+- ⚡ Amusing facts about me, **I love Doctor Who, collecting Sonic the Hedgehog merch and learning new words**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
